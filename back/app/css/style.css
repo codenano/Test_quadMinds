@@ -1,0 +1,22 @@
+*,
+html,
+body{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.pos-relative {
+	position: relative;
+}
+.pos-absolute {
+	position: absolute;
+}
+.pos-flex {
+	display: flex;
+}
+.flex-row {
+	flex-direction: row;
+}
+.flex-column {
+	flex-direction: column;
+}
